@@ -1,30 +1,66 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Tamanna Rana</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamannarana123&label=Profile%20views&color=0e75b6&style=flat" alt="tamannarana123" /> </p>
+<h3 align="center">Software Developer | C/C++ | React.js | Networking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamannarana123" alt="tamannarana123" /></a> </p>
-
-- 📫 How to reach me **tamannarana922@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tamanna-rana-15843218b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamanna rana" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamannarana123&label=Profile%20views&color=0e75b6&style=flat" alt="tamannarana123" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamannarana123&show_icons=true&locale=en&layout=compact" alt="tamannarana123" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamannarana123&show_icons=true&locale=en" alt="tamannarana123" /></p>
+- 💼 Software Developer at **Tetcos LLP**
+- 🔧 Working on **C/C++ software development and networking protocols**
+- 🌐 Interested in **Software Development, Backend Development, and React.js**
+- 🎓 Integrated B.Tech + M.Tech in Electronics & Communication Engineering from **NIT Hamirpur**
+- 📚 Currently strengthening my **Data Structures & Algorithms** skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamannarana123&" alt="tamannarana123" /></p>
+### 🛠️ Technical Skills
 
+**Languages:**  
+C, C++, JavaScript, HTML, CSS
 
+**Frontend:**  
+React.js
 
+**Tools & Technologies:**  
+Git, GitHub, Visual Studio, Wireshark, MATLAB
 
+**Areas:**  
+Networking, Routing Protocols, Backend Development, Data Structures & Algorithms
 
+### 🚀 Featured Projects
+
+- **OLSRv2 Routing Protocol** — C/C++
+- **NewsMonkey** — React.js
+- **Text Editor** — React.js
+- **Sudoku Solver** — C++
+- **Portfolio Website** — HTML, CSS, JavaScript
+- **Jupyter Kernel for ASM** — C++
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tamanna-rana-15843218b" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tamanna Rana" height="30" width="40" />
+</a>
+</p>
+
+<p>
+📧 <strong>Email:</strong> tamannarana922@gmail.com
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamannarana123&show_icons=true&locale=en&layout=compact" alt="tamannarana123" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamannarana123&show_icons=true&locale=en" alt="tamannarana123" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamannarana123" alt="tamannarana123" />
+</p>
